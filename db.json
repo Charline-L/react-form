@@ -1,0 +1,14 @@
+{
+  "answers": [
+    {
+      "id": 1,
+      "civil": "Mme",
+      "firstname": "Laporte",
+      "lastname": "Charline",
+      "email": "c@gmail.com",
+      "phone": "0000000000",
+      "framework": "vue",
+      "frameworkOther": ""
+    }
+  ]
+}
