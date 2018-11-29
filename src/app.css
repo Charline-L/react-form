@@ -222,6 +222,7 @@
 .app__button-container {
     width: 100%;
     text-align: right;
+    margin-top: 20px;
 }
 
 

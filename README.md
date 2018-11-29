@@ -27,7 +27,7 @@
 - [x] l'enregistrement doit stocker les infos dans un "json-server"
 
 
-
+// copycat :
 // https://www.videinfra.com/business-request
 // http://www.ouiwill.com/#/contact
 // http://www.erminandoaliaj.com/contact
